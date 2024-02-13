@@ -1,0 +1,4 @@
+[tool.aerich]
+tortoise_orm = "config.db.FastAPI_TO_ORM"
+location = "./migrations"
+src_folder = "./."
